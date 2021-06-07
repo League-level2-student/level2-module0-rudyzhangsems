@@ -5,7 +5,7 @@ public class _01_RobotRace {
 	public static void main(String[] args) {
 		String[] robots = {"Robot1, Robot2, Robot3, Robot4, Robot5"};
 		for (int i = 0; i < robots.length; i++) {
-			robots[i]
+			
 		}
 	}
 	//2. create an array of 5 robots.
